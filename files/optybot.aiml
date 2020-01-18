@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<!-- Welcone category -->
+<category>
+<pattern>	
+</pattern>Hello Bot</category>
+<template>Hello, my name is OpyBot, what is your name?</template>
+</aiml>
